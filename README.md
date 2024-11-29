@@ -7,3 +7,8 @@ Este codigo simula el funcionamiento de los siguientes gestores de memoria:
   - Partición Fija
   - First Fit
   - Buddy System
+
+Para poder utilizar el codigo se necesita un sistema capaz de compilar y ejectuar los archivos.
+
+El archivo *hash.c* contiene la tabla hash.
+El archivo *comparador.c* contiene el codigo con la Tabla Hash, Particion fija y Buddy system.
